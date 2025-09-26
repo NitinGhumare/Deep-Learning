@@ -1,0 +1,10 @@
+
+tensorflow
+scikit-learn
+matplotlib
+numpy
+pandas
+tqdm
+seaborn
+h5py
+EOF
