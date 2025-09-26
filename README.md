@@ -7,17 +7,17 @@ Each project is self-contained with its own code, requirements, and results.
 
 ## 📂 Projects
 
-### 1️⃣ Image Classification (CNN, MNIST)
+### 1️⃣ Fashion-MNIST Classification (CNN)
 - **Description:** Apparel classification using CNN on Fashion-MNIST.  
 - **Accuracy:** ~93%  
-- **Folder:** Image Classification (CNN, MNIST)
+- **Folder:** [fashion-mnist-classification](./fashion-mnist-classification)
 
 ---
 
 ### 2️⃣ Real-time Emotion Detection (CNN + OpenCV)
 - **Description:** Real-time facial emotion recognition using a CNN and OpenCV.  
 - **Features:** Detects emotions (happy, sad, angry, surprised, neutral) from live webcam input.  
-- **Folder:** Real-time Emotion Detection (CNN + OpenCV)
+- **Folder:** [realtime-emotion-detection](./realtime-emotion-detection)
 
 ---
 
